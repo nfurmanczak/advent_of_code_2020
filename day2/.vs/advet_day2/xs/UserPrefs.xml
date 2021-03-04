@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{B2E25C22-A0CC-478D-AA89-BD11E1CC0983}|Default">
+  <MonoDevelop.Ide.ItemProperties.advet__day2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="advet_day2/Program.cs">
+    <Files>
+      <File FileName="advet_day2/Program.cs" Line="33" Column="1" />
+      <File FileName="advet_day2/Password.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="advet_day2" expanded="True">
+            <Node name="advet_day2" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

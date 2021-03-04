@@ -1,0 +1,12 @@
+/Users/nfurmanc/Projects/advet_day2/advet_day2/bin/Debug/netcoreapp3.1/advet_day2.deps.json
+/Users/nfurmanc/Projects/advet_day2/advet_day2/bin/Debug/netcoreapp3.1/advet_day2.runtimeconfig.json
+/Users/nfurmanc/Projects/advet_day2/advet_day2/bin/Debug/netcoreapp3.1/advet_day2.runtimeconfig.dev.json
+/Users/nfurmanc/Projects/advet_day2/advet_day2/bin/Debug/netcoreapp3.1/advet_day2.dll
+/Users/nfurmanc/Projects/advet_day2/advet_day2/bin/Debug/netcoreapp3.1/advet_day2.pdb
+/Users/nfurmanc/Projects/advet_day2/advet_day2/obj/Debug/netcoreapp3.1/advet_day2.csprojAssemblyReference.cache
+/Users/nfurmanc/Projects/advet_day2/advet_day2/obj/Debug/netcoreapp3.1/advet_day2.AssemblyInfoInputs.cache
+/Users/nfurmanc/Projects/advet_day2/advet_day2/obj/Debug/netcoreapp3.1/advet_day2.AssemblyInfo.cs
+/Users/nfurmanc/Projects/advet_day2/advet_day2/obj/Debug/netcoreapp3.1/advet_day2.csproj.CoreCompileInputs.cache
+/Users/nfurmanc/Projects/advet_day2/advet_day2/obj/Debug/netcoreapp3.1/advet_day2.dll
+/Users/nfurmanc/Projects/advet_day2/advet_day2/obj/Debug/netcoreapp3.1/advet_day2.pdb
+/Users/nfurmanc/Projects/advet_day2/advet_day2/obj/Debug/netcoreapp3.1/advet_day2.genruntimeconfig.cache
